@@ -6,6 +6,6 @@
 
 - Vikranth Bandi
 - Sunil GV
-- Guru nothing reddy C
+- Guru nithin reddy C
 - Yashwanth Paindla
 - Pradeep Kumar Reddy P
